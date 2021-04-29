@@ -1,4 +1,4 @@
-# COCO_only_person
+# COCO_only_person | [English](https://github.com/SpongeBab/COCO_only_person/README-en.md)
 Use the python script to select images contains person in the COCO。
 
 使用这个脚本去挑选出coco数据集中只包含人的图片。
