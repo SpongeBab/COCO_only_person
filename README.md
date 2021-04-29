@@ -1,7 +1,8 @@
 [中文](https://github.com/SpongeBab/COCO_only_person) | [English](https://github.com/SpongeBab/COCO_only_person/blob/main/README-en.md)
 
 # COCO_only_person
-[![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
+[![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)   
+
 Use the python script to select images contains person in the COCO。
 
 使用这个脚本去挑选出coco数据集中只包含人的图片。
