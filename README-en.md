@@ -12,7 +12,8 @@ Note: The following file is required.
 **Judge whether the current picture contains people through the txt tag file, so the txt file is necessary.**
 
 ## COCO dataset structure
-![2021-04-28 16-15-06 的屏幕截图](https://user-images.githubusercontent.com/65898238/116506804-99bf4a80-a8f0-11eb-95aa-17e422a8e1d1.png)
+These file is required.It is enough.
+![2021-04-29 17-41-55 的屏幕截图](https://user-images.githubusercontent.com/65898238/116531944-478f2100-a912-11eb-85a2-2501d247368a.png)
 
 
 ## The generated coco_only_person dataset
