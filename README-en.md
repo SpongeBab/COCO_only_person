@@ -1,4 +1,4 @@
- [中文](https://github.com/SpongeBab/COCO_only_person/README.md)|[English](https://github.com/SpongeBab/COCO_only_person/README-en.md)|
+ [中文](https://github.com/SpongeBab/COCO_only_person/README.md)|[English](https://github.com/SpongeBab/COCO_only_person/README-en.md)
 
 # COCO_only_person
 Use the python script to select images contains person in the COCO。
