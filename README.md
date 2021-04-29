@@ -12,7 +12,7 @@ Use the python script to select images contains person in the COCO。
 
 通过txt标签文件判断当前图片是否包含人，所以txt文件是必须的。
 
-## 数据集结构
+## coco数据集结构
 ![2021-04-28 16-15-06 的屏幕截图](https://user-images.githubusercontent.com/65898238/116506804-99bf4a80-a8f0-11eb-95aa-17e422a8e1d1.png)
 
 
