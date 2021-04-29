@@ -5,9 +5,9 @@ Use the python script to select images contains person in the COCO。
 
 使用这个脚本去挑选出coco数据集中只包含人的图片。
 ## Note
-注意：你需要以下文件。
-1.coco2017数据集,训练集和测试集。（）
-2.txt格式的标签文件。（）
+注意：你需要以下文件。  
+1.coco2017数据集,训练集和测试集。([train2017](http://images.cocodataset.org/zips/train2017.zip))
+2.txt格式的标签文件。（Download from [hereh](https://github.com/ultralytics/yolov5/releases/download/v1.0/coco2017labels.zip)Thanks to the author of [YOLOv5](https://github.com/ultralytics/yolov5))）
 3.Python环境。
 
 通过txt标签文件判断当前图片是否包含人，所以txt文件是必须的。
