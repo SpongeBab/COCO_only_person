@@ -19,5 +19,4 @@ Use the python script to select images contains person in the COCO。
 
 
 ## 生成的coco_only_person数据集
-![2021-04-29 13-42-46 的屏幕截图](https://user-images.githubusercontent.com/65898238/116506920-d8550500-a8f0-11eb-9f76-c86d84c2b99f.png)
-
+![2021-05-07 16-15-25 的屏幕截图](https://user-images.githubusercontent.com/65898238/117419808-8dba3500-af4f-11eb-8079-e342fb52a342.png)
