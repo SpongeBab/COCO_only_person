@@ -17,7 +17,8 @@ These file is required.It is enough.
 
 
 ## The generated coco_only_person dataset
-![2021-04-29 13-42-46 的屏幕截图](https://user-images.githubusercontent.com/65898238/116506920-d8550500-a8f0-11eb-9f76-c86d84c2b99f.png)
+![2021-05-07 16-15-25 的屏幕截图](https://user-images.githubusercontent.com/65898238/117419950-b17d7b00-af4f-11eb-99cf-b7544549a3c9.png)
+
 
 
 If you have any issue, welcome to create issue.I will answer you do my best.
