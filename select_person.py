@@ -30,8 +30,13 @@ def select_person(source_label_path, output_label_path, source_images_path, outp
 
 
 if __name__ == '__main__':
-    source_labels = "/home/xiaopeng/coco/labels/train2017"
-    output_labels = "/home/xiaopeng/coco_only_person/labels/train2017"
-    source_images = "/home/xiaopeng/coco/images/train2017"
-    output_images = "/home/xiaopeng/coco_only_person/images/train2017"
-    select_person(source_labels, output_labels, source_images, output_images)
+    train_source_labels = "/home/xiaopeng/coco/labels/train2017"
+    train_output_labels = "/home/xiaopeng/coco_only_person/labels/train2017"
+    train_source_images = "/home/xiaopeng/coco/images/train2017"
+    train_output_images = "/home/xiaopeng/coco_only_person/images/train2017"
+    select_person(train_source_labels, train_output_labels, train_source_images, train_output_images)
+    valid_source_labels = "/home/xiaopeng/coco/labels/val2017"
+    valid_output_labels = "/home/xiaopeng/coco_only_person/labels/val2017"
+    valid_source_images = "/home/xiaopeng/coco/images/val2017"
+    valid_output_images = "/home/xiaopeng/coco_only_person/images/val2017"
+    select_person(valid_source_labels, valid_output_labels, valid_source_images, valid_output_images)
